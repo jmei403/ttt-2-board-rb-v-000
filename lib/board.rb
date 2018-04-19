@@ -2,4 +2,4 @@
 string = "         "
 board = string.split("")
 
-puts board
+p board
